@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "c",
-        "*.tcc": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled",
-    "backgroundCover.opacity": 0.8,
-    "backgroundCover.autoStatus": true
-}
